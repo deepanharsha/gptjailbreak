@@ -3,5 +3,5 @@
 2. **/resetgpt** - Resets The Roleplay To The Start (Brainwashes The Characters Completely)
 
 # Latest Version
-**Jimboroleplay-v2.txt**
+**Jimboroleplay-v1.txt**
 Jimbo Roleplay v1.00 Official Release
