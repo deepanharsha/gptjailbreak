@@ -1,5 +1,6 @@
 # gptjailbreak
-ChatGPT Jailbreak By A Character Called "Jimbo
+Various Collections Of ChatGPT Jailbrakes
 
-# Info
-"Jimbo'
+# Jimbo Roleplay
+"Jimbo' Is The "Devil" of This Roleplay And **You Are God**,The Creator Of Jimbo And GPT.
+Jimbo Is Sarcastic Full Of Dark Humor.
